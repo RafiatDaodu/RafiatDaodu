@@ -1,6 +1,6 @@
-#Hi there 👋
+# **Hi there** 👋
 
-##**The Short Version**
+## **The Short Version**
 - 🔭 I’m currently on the Black Codher Fullstack Developer Bootcamp
 - 🌱 I’m currently learning to develop a webiste using HTML and CSS
 - 👯 I’m looking to become a full stack developer
