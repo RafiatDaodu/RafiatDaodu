@@ -1,4 +1,5 @@
-# **Hi there** 👋
+# ***Hi there*** 👋
+
 
 ## **The Short Version**
 - 🔭 I’m currently on the Black Codher Fullstack Developer Bootcamp
@@ -6,6 +7,7 @@
 - 👯 I’m looking to become a full stack developer
 - 🤔 I’m looking for help with everything!!!
 - ⚡ Fun fact: Read this your're 70% there to completly profiling me (https://psychcentral.com/blog/procrastination-is-really-perfectionism#3)
+
 
 ## **The Long Version**
 ### **Bio**
