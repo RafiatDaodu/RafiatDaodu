@@ -1,11 +1,11 @@
 #Hi there 👋
 
 ##**The Short Version**
-🔭 I’m currently on the Black Codher Fullstack Developer Bootcamp
-🌱 I’m currently learning to develop a webiste using HTML and CSS
-👯 I’m looking to become a full stack developer
-🤔 I’m looking for help with everything!!!
-⚡ Fun fact: Read this your're 70% there to completly profiling me (https://psychcentral.com/blog/procrastination-is-really-perfectionism#3)
+- 🔭 I’m currently on the Black Codher Fullstack Developer Bootcamp
+- 🌱 I’m currently learning to develop a webiste using HTML and CSS
+- 👯 I’m looking to become a full stack developer
+- 🤔 I’m looking for help with everything!!!
+- ⚡ Fun fact: Read this your're 70% there to completly profiling me (https://psychcentral.com/blog/procrastination-is-really-perfectionism#3)
 
 ## **The Long Version**
 ### **Bio**
@@ -20,10 +20,10 @@ I am 30-something year old South East London Adverstising & Marketing graduat. I
 I now have the HTML basics down and I am on my way to fully grasping CSS.  I am really looking forward to learning Javascript so that I can create beautiful dynamic websites. I also have this idea for an app that I want to create and I am really excited to develop the skills necessary to one day bring the app into fruition. 
 
 ### What I want to achieve during the Black Codher Bootcamp:
-- To be able to understand and be able to execute all the concepts learnt as a full stack developer
-- To pass all my unit assessments
-- To connect and network with all the Daly cohort students
-- To work on coding projects outside of the bootcamp to gain more experience and develop my skills
-- To create a professional, creative and attractive developer portfolio
-- To complete Black Codher Bootcamp with a distinction
-- Not to GIVE UP
+- [ ] To be able to understand and be able to execute all the concepts learnt as a full stack developer
+- [ ] To pass all my unit assessments
+- [ ] To connect and network with all the Daly cohort students
+- [ ] To work on coding projects outside of the bootcamp to gain more experience and develop my skills
+- [ ] To create a professional, creative and attractive developer portfolio
+- [ ] To complete Black Codher Bootcamp with a distinction
+- [ ] Not to GIVE UP
