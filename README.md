@@ -1,3 +1,5 @@
+#Hi there 👋
+
 ## **Bio**
 I am 30-something year old South East London Adverstising & Marketing graduat. I have previously worked in fashion PR, events planning, corporate social responsibiity and I am now working in commercial banking. After 7 years in retail and commercial banking, I am looking to career change into the STEM industy. I have no formal or commercial tech experience, however I had been self teaching via YouTube tutorials and online forums before joining the Black Codher Bootcamp. I am supper excited and grateful for the opportunity that Black Codher has given me.  
 
@@ -17,3 +19,9 @@ I now have the HTML basics down and I am on my way to fully grasping CSS.  I am 
 - To create a professional, creative and attractive developer portfolio
 - To complete Black Codher Bootcamp with a distinction
 - Not to GIVE UP
+
+🔭 I’m currently on the Black Codher fullstack development bootcamp
+🌱 I’m currently learning to develop a webiste using HTML and CSS
+👯 I’m looking to become a full stack developer
+🤔 I’m looking for help with everything!!!
+⚡ Fun fact: Read this and you're about 70% there in profiling me (https://psychcentral.com/blog/procrastination-is-really-perfectionism#1)
