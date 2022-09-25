@@ -2,7 +2,7 @@
 
 
 ## **The Short Version**
-- 🔭 I’m currently on the Black Codher Fullstack Developer Bootcamp
+- 🔭 I’m currently on the Black Codher Full Stack Developer Bootcamp
 - 🌱 I’m currently learning to develop a webiste using HTML and CSS
 - 👯 I’m looking to become a full stack developer
 - 🤔 I’m looking for help with everything!!!
